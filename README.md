@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently learning programming in Java and I'd like to start my IT career.
 
 <!--
 **ALekki93/ALekki93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
